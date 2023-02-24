@@ -10,13 +10,13 @@
 - 5.png
 - Training Data - Contains training data set/
 - ObjectDetection/
-    - ├─ RoboFlowAPI.py
+    - RoboFlowAPI.py
 - Helper/
-    - ├─ HelperClasses.py
-    - ├─ HelperFunctions.py
+    - HelperClasses.py
+    - HelperFunctions.py
 - Classes/
-    - ├─ PEDClass.py
-    - ├─ SymbolClass.py
+    - PEDClass.py
+    - SymbolClass.py
 
 
 # Files Breakdown
