@@ -1,0 +1,13 @@
+train: C:\Users\Marcus Cozza\FamilyTree\train\images
+val: C:\Users\Marcus Cozza\FamilyTree\valid\images
+test: C:\Users\Marcus Cozza\FamilyTree\test\images
+
+nc: 15
+names: ['Adopted Female', 'Adopted Male', 'Affected - Consultant Female', 'Affected - Consultant Male', 'Affected - Decreased Female', 'Affected - Decreased Male', 'Affected Female', 'Affected Male', 'Consultand Female', 'Consultand Male', 'Deceased Female', 'Deceased Male', 'Female', 'Male', 'Proband Female']
+
+roboflow:
+  workspace: family-tree
+  project: family-tree
+  version: 3
+  license: Private
+  url: https://app.roboflow.com/family-tree/family-tree/3
