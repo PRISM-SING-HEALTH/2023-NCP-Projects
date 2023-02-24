@@ -3,7 +3,7 @@ Projects
 
 This repository holds 5 different projects, each designed to tackle a different healthcare-related problem using different technologies and approaches.
 
-Clinical Free Text to HPO Codes - 
+Clinical Free Text to HPO Codes
 -------------------------------
 
 This project aims to extract clinical information from free text and convert it into Human Phenotype Ontology (HPO) codes. The HPO is a standardized vocabulary of phenotypic abnormalities, which can be used for computational analysis of human disease.
