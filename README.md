@@ -32,7 +32,11 @@ This project aims to evaluate the skin and eye surfaces from 3D facial images us
 
 Contacts
 ------------
-- TODO add contact for students / supervisers 
+1 - Clinical Free Text to HPO Codes - Gabriel Stinton
+2 - Integrating Family History Into The Electronic Health Records (EHR) - Marcus Cozza
+3 - Making Genetic Testing Reports Machine-Readable - Haylee Jackson
+4 - Data Mining to Identify At-Risk Genetic and Rare Diseases Patients - Daniel Moynihan
+5 - Texture-Patch based evaluation of skin and eye surfaces from 3D facial Images - Dev Patel
 
 Contributing
 ------------
